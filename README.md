@@ -1,0 +1,3 @@
+# Expo Camera Preview Issue on Android
+
+This repository demonstrates a bug where the Expo Camera preview fails to load on certain Android devices. The issue is inconsistent and doesn't produce any console errors.  The provided code shows a minimal setup using the Expo Camera API. A potential solution is also included, though it may not solve the problem for all affected devices.  This is an ongoing issue with no known universal solution yet.
